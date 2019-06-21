@@ -16,7 +16,7 @@ giving a fully functional point of sale system according to client requirement
 
 2.Clone the project 
 
-    git clone https://github.com/skspyapa/Modern-POS-Web-Application-Spring Boot.git
+    git clone https://github.com/skspyapa/Modern-POS-Web-Application-SpringBoot.git
       
 3.Import project using IntelliJ IDEA
 
