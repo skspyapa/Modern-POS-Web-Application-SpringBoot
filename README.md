@@ -66,7 +66,6 @@ giving a fully functional point of sale system according to client requirement
 
 * DBCP
 
-* 
 ## Authors
 
 * [skspyapa](https://github.com/skspyapa)
